@@ -7,7 +7,7 @@ Each time the loop runs, it must output a line of text to the console that shows
      This is loop iteration 1.
      This is loop iteration 2.
      etc.     
-     */
+   
 let user = prompt(`enter in how many iterations you would like to run`)
 let num= 1
 while (num <user){
@@ -15,3 +15,4 @@ while (num <user){
       num = num +1
 }
 console.log(`This is the final iteration ${num}`)
+*/

@@ -24,4 +24,8 @@ number1 = parseInt(number1)
 number2 = parseInt(number2)
 
 let newAnswer = Calculate(number1, number2)
+<<<<<<< Updated upstream
 console.log(`The sum of ${number1} and ${number2} is ${newAnswer}`)
+=======
+console.log(`The sum of ${number1} and ${number2} is ${newAnswer}`)
+>>>>>>> Stashed changes
